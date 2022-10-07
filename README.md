@@ -3,3 +3,4 @@ This is a little project to control the bobbycar with only one analog stick for 
 
 # Screenshot
 ![Screenshot of PCB](bobbycar-emergency-hardware.png)
+![Screenshot of PCB](JLCPCB_SCREENSHOT.png)

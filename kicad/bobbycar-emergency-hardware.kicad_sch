@@ -3221,7 +3221,7 @@
     (property "Datasheet" "https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf" (id 3) (at 55.88 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC Part #" "C701343" (id 4) (at 63.5 69.85 0)
+    (property "LCSC Part #" "C701342" (id 4) (at 63.5 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 7c463baf-ab04-4977-8c73-5d7bb77769e5))
