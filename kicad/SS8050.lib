@@ -1,0 +1,23 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# SS8050_C2150
+#
+DEF SS8050_C2150 Q? 0 40 Y Y 1 L N
+F0 "Q?" 0 400 60 H V C CNN
+F1 "SS8050_C2150" 0 -400 60 H V C CNN
+F2 "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR" 0 -500 60 H I C CNN
+F3 "https://lcsc.com/product-detail/Transistors-NPN-PNP_SS8050-Y1-200-350_C2150.html" 0 -700 60 H I C CNN
+F4 "CJ" 0 0 0 H I C CNN "Manufacturer"
+F6 "C2150" 0 0 0 H I C CNN "LCSC Part"
+F7 "Basic Part" 0 0 0 H I C CNN "JLC Part"
+DRAW
+X C 3 0 200 100 D 50 50 1 1 U 
+X B 1 -200 0 100 R 50 50 1 1 U 
+X E 2 0 -200 100 U 50 50 1 1 U 
+P 2 1 1 0 0 100 -100 30 N
+P 2 1 1 0 -100 -30 0 -100 N
+P 2 1 1 0 -100 90 -100 -90 N
+P 4 1 1 0 0 -100 -30 -50 -60 -90 0 -100 f
+ENDDRAW
+ENDDEF
